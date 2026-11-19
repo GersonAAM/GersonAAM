@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Software developer and IT student based in Yucatán, Mexico. I enjoy understanding how systems work from the ground up—whether that means configuring a Linux environment from scratch, digging into low-level graphics, or troubleshooting hardware at the component level.<br><br>My approach to development is driven by autonomy, efficiency, and practical problem-solving. I prefer building lean, self-hosted, and offline-first architectures over relying on bloated abstractions or unnecessary cloud dependencies. To me, good software is transparent, maintainable, and built with a clear purpose.<br><br>I thrive in environments where I can bridge software and hardware, experiment with new tools, and continuously refine my workflow. Away from the keyboard, I bring that same focus and discipline into boxing, Heavy Duty strength training, and painting.
 
 
